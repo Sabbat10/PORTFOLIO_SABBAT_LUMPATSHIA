@@ -271,6 +271,12 @@ img {
   width: 200px;
   border-radius: .5rem;
 }
+.about__text {
+  text-align: justify;
+}
+.myName {
+  color: #191D88;
+}
 
 /* ===== SKILLS =====*/
 .skills__container {
